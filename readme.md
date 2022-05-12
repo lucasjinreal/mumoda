@@ -43,7 +43,14 @@ there pictures are generated with CLIP and Guided-Difussion:
 All models are download from third-party repo. Might add training support in the future.
 
 - `guided-difussion-unconditioned`: [link](https://drive.google.com/file/d/1lvyZZbC9NLcS8a__YPcUP7rDiIpbRpoF/view?usp=sharing);
-  
+- `StyleSwin-CelebHQ1024`: [link](https://drive.google.com/u/0/uc?id=1y3wkykjvCbteTaGTRF8EedkG-N1Z8jFf&export=download)
+
+
+
+## References
+
+- https://github.com/eleutherai/vqgan-clip
+- 
 
 
 ## Copyright

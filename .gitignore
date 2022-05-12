@@ -1,4 +1,6 @@
 .vscode/
 vendor/
 demo_disco.py
+*.egg-info/
+
 
