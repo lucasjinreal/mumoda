@@ -4,7 +4,7 @@
 
 ***Mumoda*** is an inference and finetuning library using *Multi-Modality* learning. It already contains some SOTA contractive learning model with multiple modalites. Such as *CLIP, DeCLIP, Coca* etc.
 
-Then main target of **mumoda** is using them for downstream tasks, for instance, text-image, image-caption, or even for object detection etc. To see the big potential of these models transfer to new tasks.
+The main target of **mumoda** is using them for downstream tasks, for instance, text-image, image-caption, or even for object detection etc. To see the big potential of these models transfer to new tasks.
 
 Features **mumoda** supported now:
 
