@@ -27,6 +27,17 @@ python demo.py
 Be note: if you run CLIP with Diffusion by default, you need at least 12GB GPU memory.
 
 
+## Results
+
+there pictures are generated with CLIP and Guided-Difussion:
+
+*A longly dog stand in the rain with a train along side*:
+
+![](https://s1.ax1x.com/2022/05/12/O0pmi4.png)
+
+![](https://s1.ax1x.com/2022/05/12/O0pQQ1.png)
+
+
 ## Models
 
 All models are download from third-party repo. Might add training support in the future.
